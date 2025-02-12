@@ -4,6 +4,7 @@
 - Atualmente estou focando em JavaScript, CSS e HTML.
 - Me formei em Ciencia de Dados, em 12/2024.
 - Tenho conhecimento em SQL, MYSQL e Python.
+- Atualmente estudo Analise e Desenvolvimento de Sistemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rs2-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
